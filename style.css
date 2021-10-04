@@ -1,0 +1,27 @@
+#contacto {
+  background-color: #005677;
+  color: white;
+  font-weight: 800;
+  text-align: center;
+}
+
+#encabezado {
+  background-color: #c4c4c4;
+  color: #005677;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.encabezados {
+  background-color: #c4c4c4;
+  color: #005677;
+  text-transform: uppercase;
+}
+
+.informacion {
+  font-weight: 800;
+}
+
+#logo {
+  text-align: center;
+}
